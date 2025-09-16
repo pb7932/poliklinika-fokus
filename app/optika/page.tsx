@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "Optika | Rodenstock leće",
   description: "Vrhunske Rodenstock leće za jasan i udoban vid u svim uvjetima. Saznajte više o našim lećama za srednju udaljenost, kontrolu kratkovidnosti, vožnju i progresivne linije.",
   openGraph: {
-    title: "Optika – Poliklinika Fokus | Rodenstock leće",
+    title: "Optika – Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus",
     description: "Vrhunske Rodenstock leće za jasan i udoban vid u svim uvjetima. Saznajte više o našim lećama za srednju udaljenost, kontrolu kratkovidnosti, vožnju i progresivne linije.",
     images: ["/images/optika-hero.jpg"],
   },

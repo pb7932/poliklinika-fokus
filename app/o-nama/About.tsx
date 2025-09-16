@@ -8,7 +8,7 @@ const About = () => {
     <section className=''>
         <section
           className="relative w-full h-[70vh]
-                     bg-[url('/images/onama-hero.jpeg')]
+                     bg-[url('/images/onama-hero2.jpeg')]
                      bg-top bg-cover bg-blend-darken bg-black/50
                      flex items-end justify-end px-4 lg:px-24 py-24"
         >
@@ -52,8 +52,8 @@ const About = () => {
                     <Image 
                       src="/images/onama-1.jpeg" 
                       alt="Poliklinika Fokus" 
-                      width={500} 
-                      height={400} 
+                      width={1000} 
+                      height={800} 
                       className="rounded-xl shadow-lg w-full mx-auto"
                       loading='lazy'
                     />

@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Pravila Privatnosti',
-  description: 'Saznajte kako Poliklinika Fokus prikuplja, koristi i štiti vaše osobne podatke. Pročitajte Pravila privatnosti za sve informacije.',
+  description: 'Saznajte kako specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus prikuplja, koristi i štiti vaše osobne podatke. Pročitajte Pravila privatnosti za sve informacije.',
   robots: 'index, follow',
   alternates: {
     canonical: 'https://www.poliklinikafokus.hr/politika-privatnosti',

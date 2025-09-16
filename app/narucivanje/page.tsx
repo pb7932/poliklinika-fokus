@@ -6,7 +6,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
     title: 'Naručivanje termina',
-    description: 'Naručite svoj termin za oftalmološke preglede, optičke usluge i estetske tretmane u Poliklinici Fokus. Brzo, jednostavno i profesionalno.',
+    description: 'Naručite svoj termin za oftalmološke preglede, optičke usluge i estetske tretmane u specijalističkoj ordinacija za oftalmologiju, estetska medicina i Optici Fokus. Brzo, jednostavno i profesionalno.',
     alternates: {
       canonical: 'https://www.poliklinikafokus.hr/narucivanje',
     }

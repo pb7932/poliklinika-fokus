@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     'Vrhunski estetski tretmani za očuvanje mladolikog izgleda, regeneraciju kože i prirodno naglašavanje ljepote – bez potrebe za kirurškim zahvatima.',
   openGraph: {
-    title: 'Estetska medicina – Poliklinika Fokus',
+    title: 'Estetska medicina – Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus',
     description: 'Vrhunski estetski tretmani za očuvanje mladolikog izgleda, regeneraciju kože i prirodno naglašavanje ljepote – bez potrebe za kirurškim zahvatima.',
     images: ["/images/estetska-hero.jpeg"],
   },
@@ -175,7 +175,7 @@ export default function EstetskaMedicinaPage() {
                       
                     </div>
                   </div>
-                  <div className="flex-1 w-full min-h-full bg-[url('/images/estetska-1.png')] filter brightness-80 bg-cover bg-center bg-no-repeat">
+                  <div className="flex-1 w-full min-h-full bg-[url('/images/estetska-1.jpeg')] filter brightness-80 bg-cover bg-center bg-no-repeat">
                 </div>
             </div>
 
@@ -213,7 +213,7 @@ export default function EstetskaMedicinaPage() {
                     </h2>
                   </div>
                   
-                  <div className="flex-1 w-full min-h-[300px] bg-[url('/images/estetska-1.png')] filter brightness-80 bg-cover bg-center bg-no-repeat rounded-lg" />
+                  <div className="flex-1 w-full min-h-[300px] bg-[url('/images/estetska-1.jpeg')] filter brightness-80 bg-cover bg-center bg-no-repeat rounded-lg" />
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-8 mx-auto">
                 {rejuvenation.map((f, idx) => (

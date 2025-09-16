@@ -6,7 +6,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Zanimljivostis',
-  description: 'Pročitajte zanimljive i edukativne članke na blogu Poliklinike Fokus. Saznajte više o oftalmologiji, optici, estetskoj medicini i zdravlju.',
+  description: 'Pročitajte zanimljive i edukativne članke na blogu specijalističke ordinacije za oftalmologiju, estetska medicina i Optike Fokus. Saznajte više o oftalmologiji, optici, estetskoj medicini i zdravlju.',
   robots: 'index, follow',
   alternates: {
     canonical: 'https://www.poliklinikafokus.hr/zanimljivosti',

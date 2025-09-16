@@ -6,7 +6,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Utisci pacijenata',
-  description: 'Pročitajte iskrene utiske naših zadovoljnih pacijenata i saznajte kako Poliklinika Fokus pomaže ljudima u očuvanju zdravlja očiju i postizanju estetskih ciljeva.',
+  description: 'Pročitajte iskrene utiske naših zadovoljnih pacijenata i saznajte kako specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus pomaže ljudima u očuvanju zdravlja očiju i postizanju estetskih ciljeva.',
   robots: 'index, follow',
   alternates: {
     canonical: 'https://www.poliklinikafokus.hr/utisci-pacijenata',

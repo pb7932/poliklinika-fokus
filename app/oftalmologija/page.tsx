@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     'Sveobuhvatna oftalmološka skrb: pregledi, dijagnostika i kirurški zahvati za očuvanje i poboljšanje vida.',
   openGraph: {
-    title: 'Oftalmologija – Poliklinika Fokus',
+    title: 'Oftalmologija – Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus',
     description: 'Sveobuhvatna oftalmološka skrb: pregledi, dijagnostika i kirurški zahvati za očuvanje i poboljšanje vida.',
     images: ["/images/oftalmologija-hero.jpg"],
   },
@@ -380,7 +380,7 @@ export default function OftalmologijaPage() {
         {/* Mobile */}
         <section className="xl:hidden mx-auto flex flex-col lg:flex-row pt-12 gap-12 px-4 xl:px-0">
             <div className="flex-1 flex flex-col gap-12">
-              <div className='flex flex-col md:flex-row'>
+              <div className='flex flex-col md:flex-row gap-4'>
                   <div className='flex-1 max-w-xl'>
                        <h2 className="flex items-center mb-4">
                            <span className="text-2xl lg:text-4xl font-semibold">Kirurški zahvati – preciznost, sigurnost i estetika</span>

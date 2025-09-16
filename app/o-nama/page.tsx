@@ -6,18 +6,18 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'O nama',
-  description: 'Poliklinika Fokus u Varaždinu pruža vrhunsku medicinsku skrb u području oftalmologije, optike i estetske medicine. Nudi preglede vida, operacije sive mrene, Botox tretmane i više.',
+  description: 'Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokuss u Varaždinu pruža vrhunsku medicinsku skrb u području oftalmologije, optike i estetske medicine. Nudi preglede vida, operacije sive mrene, Botox tretmane i više.',
   openGraph: {
-    title: 'O nama | Poliklinika Fokus - Oftalmologija, Optika, Estetska Medicina',
-    description: 'Poliklinika Fokus u Varaždinu pruža vrhunsku medicinsku skrb u području oftalmologije, optike i estetske medicine. Nudi preglede vida, operacije sive mrene, Botox tretmane i više.',
+    title: 'O nama | Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus',
+    description: 'Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus u Varaždinu pruža vrhunsku medicinsku skrb u području oftalmologije, optike i estetske medicine. Nudi preglede vida, operacije sive mrene, Botox tretmane i više.',
     url: 'https://www.poliklinikafokus.hr/o-nama',
-    images: ['/images/onama-hero.jpeg'],
+    images: ['/images/onama-hero2.jpeg'],
     type: 'website',
   },
   twitter: {
-    title: 'O nama | Poliklinika Fokus - Oftalmologija, Optika, Estetska Medicina',
-    description: 'Poliklinika Fokus u Varaždinu pruža vrhunsku medicinsku skrb u području oftalmologije, optike i estetske medicine. Nudi preglede vida, operacije sive mrene, Botox tretmane i više.',
-    images: ['/images/onama-hero.jpeg'],
+    title: 'O nama | Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus',
+    description: 'Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus u Varaždinu pruža vrhunsku medicinsku skrb u području oftalmologije, optike i estetske medicine. Nudi preglede vida, operacije sive mrene, Botox tretmane i više.',
+    images: ['/images/onama-hero2.jpeg'],
     card: 'summary_large_image',
   },
   robots: 'index, follow',

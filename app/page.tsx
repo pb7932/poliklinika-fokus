@@ -14,9 +14,9 @@ import { Metadata } from 'next';
 import Footer from './components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Optika Fokus – Optika, Oftalmologija i Estetska Medicina Varaždin',
+  title: 'Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus Varaždin',
   description:
-    'Poliklinika Fokus u Varaždinu nudi stručne usluge optike, oftalmologije i estetske medicine. Više od 20 godina iskustva u njezi vida i kože.',
+    'Specijalistička ordinacija za oftalmologiju, estetska medicina i Optika Fokus u Varaždinu nudi stručne usluge optike, oftalmologije i estetske medicine. Više od 20 godina iskustva u njezi vida i kože.',
   alternates: {
     canonical: 'https://www.poliklinikafokus.hr/',
   },

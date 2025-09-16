@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Uvjeti korištenja',
-  description: 'Pročitajte uvjete korištenja Internet stranice Poliklinike Fokus. Saznajte odgovornosti, prava i ograničenja u vezi s korištenjem naših usluga.',
+  description: 'Pročitajte uvjete korištenja Internet stranice specijalističke ordinacije za oftalmologiju, estetska medicina i Optike Fokus. Saznajte odgovornosti, prava i ograničenja u vezi s korištenjem naših usluga.',
   robots: 'index, follow',
   alternates: {
     canonical: 'https://www.poliklinikafokus.hr/uvjeti-koristenja',
