@@ -5,7 +5,7 @@ import { RiCloseLargeLine } from "react-icons/ri";
 import { FaCircle, FaPhoneAlt, FaRegEye } from 'react-icons/fa';
 import Image from 'next/image'
 import { AiOutlineEye } from 'react-icons/ai';
-import { GiHeartPlus } from 'react-icons/gi';
+import { GiHeartPlus, GiSunglasses, GiTripleNeedle } from 'react-icons/gi';
 
 const Navbar = ({isHome=false}) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -65,9 +65,9 @@ const Navbar = ({isHome=false}) => {
               <div className="absolute left-0 right-9 top-full w-screen bg-white m-auto text-black overflow-hidden max-h-0 group-hover:max-h-[300px] transition-all duration-500 ease-in-out z-50 shadow-md group-hover:border-t">
                 <div className="container mx-auto px-4 py-4 grid grid-cols-1 md:grid-cols-3 gap-6">
                   {[
-                    { title: 'Optika', href: '/optika', icon: <AiOutlineEye className="text-cyan-800 w-6 h-6" />, text: 'Naša optika nudi Rodenstock leće i naočale najviše kvalitete, prilagođene Vašim individualnim potrebama, jer vrhunski vid započinje preciznom dijagnostikom i stručnim savjetovanjem.' },
+                    { title: 'Optika', href: '/optika', icon: <GiSunglasses className="text-cyan-800 w-8 h-8" />, text: 'Naša optika nudi Rodenstock leće i naočale najviše kvalitete, prilagođene Vašim individualnim potrebama, jer vrhunski vid započinje preciznom dijagnostikom i stručnim savjetovanjem.' },
                     { title: 'Oftalmologija', href: '/oftalmologija', icon: <FaRegEye className="text-cyan-800 w-6 h-6" />, text: 'Vrhunska oftalmološka skrb – detaljnih pregleda i precizne dijagnostike do suvremenih zahvata. Brinemo o zdravlju Vaših očiju stručno, sigurno i s povjerenjem.' },
-                    { title: 'Estetska medicina', href: '/estetska-medicina', icon: <GiHeartPlus className="text-cyan-800 w-6 h-6" />, text: 'Profesionalna i sigurna estetska skrb obuhvaća individualne konzultacije i napredne tretmane, uz pažnju na svaki detalj i Vašu udobnost.' },
+                    { title: 'Estetska medicina', href: '/estetska-medicina', icon: <GiTripleNeedle className="text-cyan-800 w-6 h-6" />, text: 'Profesionalna i sigurna estetska skrb obuhvaća individualne konzultacije i napredne tretmane, uz pažnju na svaki detalj i Vašu udobnost.' },
                   ].map(({ title, href, icon, text }) => (
                     <Link key={title} href={href} className="flex items-center justify-center space-x-4 hover:shadow-md hover:shadow-black/40 border-2 border-transparent p-4 rounded-md transition-all">
                       <div>{icon}</div>
