@@ -22,7 +22,7 @@ export const employees = [
     { 
       name: "Karla Konjić Pejić", 
       title: "Prostupnica sestrinstva / bacc.med.techn.", 
-      image: "/employees/"
+      image: ""
     },
     { 
       name: "Antonia Petrina", 
@@ -33,7 +33,7 @@ export const employees = [
     { 
       name: "Antonija Kruljac", 
       title: "Prostupnica sestrinstva / bacc.med.techn.", 
-      image: "/employees/"
+      image: ""
     },
     { 
       name: "Marijeta Smrekar", 
@@ -43,7 +43,7 @@ export const employees = [
     { 
       name: "Ivančica Pavetić Medved", 
       title: "Majstor optičar", 
-      image: "/employees/"
+      image: ""
     },
     { 
       name: "Sanja Kadović", 
